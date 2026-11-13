@@ -1,0 +1,13 @@
+{% assign previous_year = '' %}
+{% for pub in site.data.publications %}
+{% if include.selected and pub.selected != true %}{% continue %}{% endif %}
+{% if include.category and pub.category != include.category %}{% continue %}{% endif %}
+{% unless include.selected %}{% if pub.year != previous_year %}<h2 class="publication-year">{{ pub.year }}</h2>{% assign previous_year = pub.year %}{% endif %}{% endunless %}
+<article class="publication-item archive__item" data-category="{{ pub.category }}">
+  <p class="publication-type">{{ pub.label }}{% if pub.cofirst %} <span>· Co-first author</span>{% elsif pub.first %} <span>· First author</span>{% endif %}</p>
+  <h3 class="archive__item-title"><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
+  <p class="publication-authors">{{ pub.authors_html }}</p>
+  <p class="publication-venue"><em>{{ pub.venue }}</em>{% if pub.details != empty %} · {{ pub.details }}{% endif %} · {{ pub.year }}</p>
+  <a class="text-link" href="{{ pub.url }}">{% if pub.doi != empty %}DOI{% else %}Google Scholar{% endif %} <span aria-hidden="true">↗</span></a>
+</article>
+{% endfor %}
