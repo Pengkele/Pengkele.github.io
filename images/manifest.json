@@ -1,0 +1,19 @@
+{
+	"name": "Yuming Peng",
+	"short_name": "Yuming Peng",
+	"description": "PhD researcher at Beihang University and Senior R&D Engineer at X-MAGTECH. OPM-MEG systems, neuroimaging, and clinical translation.",
+	"start_url": "/",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}

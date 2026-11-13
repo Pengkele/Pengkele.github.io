@@ -1,0 +1,17 @@
+/* Functional additions only. Typography, colors and layout use the original Academic Pages theme. */
+[hidden] { display: none !important; }
+.publication-tools { margin: 1.5em 0; }
+.publication-tools input { width: 100%; }
+.publication-filters { margin-top: .5em; }
+.publication-filters button { margin: 0 .4em .4em 0; }
+.publication-filters button[aria-pressed="true"] { font-weight: bold; text-decoration: underline; }
+.publication-links a { margin-right: 1em; }
+.publication-type, .authorship-note, #publication-count { font-size: .8em; }
+.publication-item { margin-bottom: 1.5em; }
+.publication-item p { margin-bottom: .5em; }
+@media print {
+  .masthead, .sidebar, .page__footer, .print-cv, .publication-tools, .page__meta { display: none !important; }
+  #main, .page, .archive { width: 100%; max-width: none; margin: 0; padding: 0; float: none; }
+  .publication-item { break-inside: avoid; }
+  @page { margin: 17mm; }
+}
