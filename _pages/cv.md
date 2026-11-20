@@ -19,6 +19,10 @@ Cryogen-free OPM-MEG systems, algorithms, and software; multimodal neuroimaging 
 ## Professional experience
 {% capture experience %}{% include experience-content.md %}{% endcapture %}{{ experience | markdownify }}
 
+## Academic service
+
+Peer reviewer, *BMC Public Health* (current).
+
 ## Research projects
 
 - Core project contributor to the development of a cryogen-free MEG system under China’s National Key R&D Program during the 14th Five-Year Plan, including proposal preparation and project implementation.

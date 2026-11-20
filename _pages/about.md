@@ -9,6 +9,8 @@ I am a PhD researcher at **Beihang University** and a **Senior R&D Engineer at X
 
 My research combines MEG, EEG, SEEG, and MRI to investigate epileptogenic sources and brain networks, with broader interests in functional mapping and the clinical translation of neuroimaging technology.
 
+I serve as a peer reviewer for *BMC Public Health*.
+
 ## Research interests
 
 - **OPM-MEG systems:** acquisition software, sensor configurations, simulation, and system evaluation.
@@ -22,3 +24,7 @@ You can find my [publications]({{ '/publications/' | relative_url }}), [professi
 {% include publication-list.html selected=true %}
 
 [View all publications]({{ '/publications/' | relative_url }})
+
+## Recent conference abstract
+
+My colleagues and I used OPM-MEG to study working memory in patients with glioma. Our [conference abstract](https://doi.org/10.1093/neuonc/noag189.897) appeared in the November 2026 supplement of *Neuro-Oncology*.

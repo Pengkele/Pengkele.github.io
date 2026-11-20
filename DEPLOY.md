@@ -5,7 +5,8 @@ This site uses the original Academic Pages default theme, typography, navigation
 ## Content
 
 - 15 papers from the complete Google Scholar profile: 13 journal articles and 2 conference papers.
-- AES 2024 abstract 2.489, with its presenting author identified separately.
+- Two published meeting abstracts: Neuro-Oncology NCOG-04 (2026) and AES 2.489 (2024).
+- Current peer reviewer for BMC Public Health, as reported by Yuming Peng.
 - BIOMAG 2026: three posters and one oral presentation, with all four titles and Yuming Peng's Session Chair role.
 - ICBBE 2026: one accepted poster abstract, with its title. This is distinct from the ICBIP 2026 proceedings paper.
 - Work experience, education, research, awards, and technical skills based on the supplied CV.
@@ -20,7 +21,7 @@ BIOMAG and ICBBE titles, presentation formats, and the chair role were supplied 
 | Homepage | `_pages/about.md` |
 | Work experience | `_includes/experience-content.md` |
 | Education | `_includes/education-content.md` |
-| Conference acceptances and AES abstract | `_includes/conference-content.md` |
+| Conference acceptances and published abstracts | `_includes/conference-content.md` |
 | Paper list shared by Publications and CV | `_data/publications.json` |
 | Individual paper pages | `_publications/` |
 | Downloadable bibliography | `files/yuming-peng-publications.bib` |
@@ -58,7 +59,7 @@ The original local `site` clone points to Academic Pages upstream. Use the separ
 ## Sources
 
 - User-supplied `Yuming_Peng_CV_v2.docx`.
-- [Google Scholar profile](https://scholar.google.com/citations?user=f4LlA74AAAAJ&hl=en), all 16 entries inspected directly on November 13, 2026.
+- [Google Scholar profile](https://scholar.google.com/citations?user=f4LlA74AAAAJ&hl=en), all 17 entries checked on November 20, 2026.
 - DOI publisher/Crossref records and [ORCID](https://orcid.org/0009-0001-2702-821X) for bibliographic metadata.
 - Official AES abstract page linked from the Conferences page.
 

@@ -33,7 +33,14 @@ One abstract accepted for poster presentation.
 <h3>Virtual Planar Gradiometer for Source Reconstruction under Near-Field Interference in Optically Pumped Magnetometer-based magnetoencephalography</h3>
 </article>
 
-## Published conference abstract
+## Published conference abstracts
+
+<article class="publication-item archive__item">
+<p class="publication-type">Conference abstract · NCOG-04</p>
+<h3 class="archive__item-title"><a href="https://doi.org/10.1093/neuonc/noag189.897">Multilevel disruption of working memory processing in patients with glioma: an OPM-MEG study</a></h3>
+<p class="publication-authors">Xiaohan Chi, <strong>Yuming Peng</strong>, Tai Sun, Kang Liu, Yiwen Ma, Ming Ding, Nan Ji, Yang Zhang</p>
+<p class="publication-venue"><em>Neuro-Oncology</em> · Volume 28, Supplement 4, noag189.897 · November 2026</p>
+</article>
 
 <article class="publication-item archive__item">
 <p class="publication-type">AES Annual Meeting 2024 · Abstract 2.489</p>
