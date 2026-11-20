@@ -1,5 +1,21 @@
 [
   {
+    "title": "Source-sink network priors guide Epilepsy Deep Dynamics for identifying pathological channels from interictal iEEG",
+    "doi": "",
+    "url": "/publication/2026-icbbe-epilepsy-deep-dynamics/",
+    "year": 2026,
+    "authors": ["Yuming Peng", "Ming Ding"],
+    "authors_html": "<strong>Yuming Peng</strong>, Ming Ding",
+    "venue": "ICBBE 2026",
+    "details": "",
+    "category": "conferences",
+    "label": "Conference paper · Accepted, awaiting publication",
+    "first": true,
+    "cofirst": false,
+    "selected": true,
+    "slug": "2026-icbbe-epilepsy-deep-dynamics"
+  },
+  {
     "title": "Clinical Translation of Optically Pumped Magnetometer-Based Magnetoencephalography: Current Evidence, Implementation Challenges, and Future Pathways",
     "doi": "10.3390/brainsci16111217",
     "url": "https://doi.org/10.3390/brainsci16111217",

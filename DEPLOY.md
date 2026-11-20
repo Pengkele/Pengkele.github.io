@@ -8,7 +8,7 @@ This site uses the original Academic Pages default theme, typography, navigation
 - Two published meeting abstracts: Neuro-Oncology NCOG-04 (2026) and AES 2.489 (2024).
 - Current peer reviewer for BMC Public Health, as reported by Yuming Peng.
 - BIOMAG 2026: three posters and one oral presentation, with all four titles and Yuming Peng's Session Chair role.
-- ICBBE 2026: one accepted poster abstract, with its title. This is distinct from the ICBIP 2026 proceedings paper.
+- ICBBE 2026 has an accepted paper on Epilepsy Deep Dynamics (awaiting publication) and a separate accepted poster abstract on virtual planar gradiometry.
 - Work experience, education, research, awards, and technical skills based on the supplied CV.
 
 BIOMAG and ICBBE titles, presentation formats, and the chair role were supplied directly by Yuming Peng. Titles retain the supplied wording. Author lists for these five contributions can be added when available. Two Scholar records currently link to their Scholar details because a DOI was unavailable.
@@ -24,6 +24,7 @@ BIOMAG and ICBBE titles, presentation formats, and the chair role were supplied 
 | Conference acceptances and published abstracts | `_includes/conference-content.md` |
 | Paper list shared by Publications and CV | `_data/publications.json` |
 | Individual paper pages | `_publications/` |
+| ICBBE 2026 paper awaiting publication | `_pages/2026-icbbe-epilepsy-deep-dynamics.md` |
 | Downloadable bibliography | `files/yuming-peng-publications.bib` |
 | Visual styling | `assets/css/personal.css` |
 

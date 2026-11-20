@@ -26,7 +26,7 @@ One oral presentation and three poster presentations. **Conference service:** Se
 
 ### ICBBE 2026
 
-One abstract accepted for poster presentation.
+ICBBE accepted our [Epilepsy Deep Dynamics paper]({{ '/publication/2026-icbbe-epilepsy-deep-dynamics/' | relative_url }}) and the following poster abstract.
 
 <article class="publication-item archive__item">
 <p class="publication-type">ICBBE 2026 · Poster Presentation</p>
